@@ -1,0 +1,26 @@
+/* Estilo para o container */
+.container {
+    margin-top: 50px;
+  }
+  
+  /* Estilo para as dicas de prevenção */
+  .col-md-6 ul {
+    list-style-type: none;
+    padding-left: 20px;
+  }
+  
+  .col-md-6 ul li {
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para o vídeo e dicas em telas pequenas */
+  @media (max-width: 768px) {
+    .col-md-6 {
+      margin-top: 20px;
+    }
+  
+    .col-md-6 ul {
+      padding-left: 0;
+    }
+  }
+  
