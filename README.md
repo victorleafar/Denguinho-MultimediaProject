@@ -24,5 +24,4 @@ Caso o Angular CLI não esteja instalado, você pode instalá-lo globalmente com
 
 npm install -g @angular/cli
 
-### 🔧 Problemas?
-Se você encontrar problemas ao rodar o projeto ou precisar de ajuda, sinta-se à vontade para abrir uma issue no repositório ou entrar em contato com o desenvolvedor principal.
+
