@@ -1,33 +1,28 @@
 # Denguinho Multimedia Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
+Bem-vindo ao projeto **Denguinho Multimedia Project**!
 
-## Development server
+Este projeto é uma aplicação desenvolvida para fornecer informações e recursos sobre o tratamento da dengue. Siga as instruções abaixo para clonar e rodar o projeto localmente.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Como Começar
 
-## Code scaffolding
+Para acessar e rodar o projeto, siga os passos abaixo:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### 1. Clonar o Repositório
 
-## Build
+Clone o repositório para o seu ambiente local:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+```bash
+git clone https://github.com/victorleafar/Denguinho-MultimediaProject
+cd Denguinho-MultimediaProject
+npm install
+npx ng serve
 
-## Running unit tests
+### 2. 📋 Requisitos
+Certifique-se de ter o Node.js e o Angular CLI instalados na sua máquina.
+Caso o Angular CLI não esteja instalado, você pode instalá-lo globalmente com o seguinte comando:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+npm install -g @angular/cli
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-
-Rodar o server
-
-0. Abrir a pasta do projeto
-1. cd denguinho-multimidia
-2. npx ng serve
+### 🔧 Problemas?
+Se você encontrar problemas ao rodar o projeto ou precisar de ajuda, sinta-se à vontade para abrir uma issue no repositório ou entrar em contato com o desenvolvedor principal.
